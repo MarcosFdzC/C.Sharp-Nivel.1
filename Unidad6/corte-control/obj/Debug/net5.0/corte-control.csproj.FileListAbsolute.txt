@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\bin\Debug\net5.0\corte-control.exe
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\bin\Debug\net5.0\corte-control.deps.json
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\bin\Debug\net5.0\corte-control.runtimeconfig.json
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\bin\Debug\net5.0\corte-control.runtimeconfig.dev.json
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\bin\Debug\net5.0\corte-control.dll
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\bin\Debug\net5.0\ref\corte-control.dll
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\bin\Debug\net5.0\corte-control.pdb
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\obj\Debug\net5.0\corte-control.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\obj\Debug\net5.0\corte-control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\obj\Debug\net5.0\corte-control.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\obj\Debug\net5.0\corte-control.AssemblyInfo.cs
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\obj\Debug\net5.0\corte-control.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\obj\Debug\net5.0\corte-control.dll
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\obj\Debug\net5.0\ref\corte-control.dll
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\obj\Debug\net5.0\corte-control.pdb
+C:\Users\marco\Desktop\C# N1\Unidad6\corte-control\obj\Debug\net5.0\corte-control.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\bin\Debug\net5.0\ciclos-combinados.exe
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\bin\Debug\net5.0\ciclos-combinados.deps.json
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\bin\Debug\net5.0\ciclos-combinados.runtimeconfig.json
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\bin\Debug\net5.0\ciclos-combinados.runtimeconfig.dev.json
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\bin\Debug\net5.0\ciclos-combinados.dll
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\bin\Debug\net5.0\ref\ciclos-combinados.dll
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\bin\Debug\net5.0\ciclos-combinados.pdb
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\obj\Debug\net5.0\ciclos-combinados.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\obj\Debug\net5.0\ciclos-combinados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\obj\Debug\net5.0\ciclos-combinados.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\obj\Debug\net5.0\ciclos-combinados.AssemblyInfo.cs
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\obj\Debug\net5.0\ciclos-combinados.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\obj\Debug\net5.0\ciclos-combinados.dll
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\obj\Debug\net5.0\ref\ciclos-combinados.dll
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\obj\Debug\net5.0\ciclos-combinados.pdb
+C:\Users\marco\Desktop\C# N1\Unidad6\ciclos-combinados\obj\Debug\net5.0\ciclos-combinados.genruntimeconfig.cache

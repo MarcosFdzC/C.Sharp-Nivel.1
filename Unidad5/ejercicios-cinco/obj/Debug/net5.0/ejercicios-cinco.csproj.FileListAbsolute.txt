@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\bin\Debug\net5.0\ejercicios-cinco.exe
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\bin\Debug\net5.0\ejercicios-cinco.deps.json
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\bin\Debug\net5.0\ejercicios-cinco.runtimeconfig.json
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\bin\Debug\net5.0\ejercicios-cinco.runtimeconfig.dev.json
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\bin\Debug\net5.0\ejercicios-cinco.dll
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\bin\Debug\net5.0\ref\ejercicios-cinco.dll
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\bin\Debug\net5.0\ejercicios-cinco.pdb
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\obj\Debug\net5.0\ejercicios-cinco.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\obj\Debug\net5.0\ejercicios-cinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\obj\Debug\net5.0\ejercicios-cinco.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\obj\Debug\net5.0\ejercicios-cinco.AssemblyInfo.cs
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\obj\Debug\net5.0\ejercicios-cinco.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\obj\Debug\net5.0\ejercicios-cinco.dll
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\obj\Debug\net5.0\ref\ejercicios-cinco.dll
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\obj\Debug\net5.0\ejercicios-cinco.pdb
+C:\Users\marco\Desktop\C# N1\Unidad5\ejercicios-cinco\obj\Debug\net5.0\ejercicios-cinco.genruntimeconfig.cache

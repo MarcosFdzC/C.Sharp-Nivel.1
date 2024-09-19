@@ -1,0 +1,32 @@
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\bin\Debug\net5.0\ejercicios-cuartro.exe
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\bin\Debug\net5.0\ejercicios-cuartro.deps.json
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\bin\Debug\net5.0\ejercicios-cuartro.runtimeconfig.json
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\bin\Debug\net5.0\ejercicios-cuartro.runtimeconfig.dev.json
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\bin\Debug\net5.0\ejercicios-cuartro.dll
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\bin\Debug\net5.0\ref\ejercicios-cuartro.dll
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\bin\Debug\net5.0\ejercicios-cuartro.pdb
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.AssemblyInfo.cs
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.dll
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\obj\Debug\net5.0\ref\ejercicios-cuartro.dll
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.pdb
+C:\Users\marco\Desktop\C# N1\Unidad4\condicionales-dos\Ejercicios 4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.genruntimeconfig.cache
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\bin\Debug\net5.0\ejercicios-cuartro.exe
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\bin\Debug\net5.0\ejercicios-cuartro.deps.json
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\bin\Debug\net5.0\ejercicios-cuartro.runtimeconfig.json
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\bin\Debug\net5.0\ejercicios-cuartro.runtimeconfig.dev.json
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\bin\Debug\net5.0\ejercicios-cuartro.dll
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\bin\Debug\net5.0\ref\ejercicios-cuartro.dll
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\bin\Debug\net5.0\ejercicios-cuartro.pdb
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.AssemblyInfo.cs
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.dll
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\obj\Debug\net5.0\ref\ejercicios-cuartro.dll
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.pdb
+C:\Users\marco\Desktop\C# N1\Unidad4\ejercicios-cuartro\obj\Debug\net5.0\ejercicios-cuartro.genruntimeconfig.cache

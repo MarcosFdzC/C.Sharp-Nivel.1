@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\bin\Debug\net5.0\ejemplos-if.exe
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\bin\Debug\net5.0\ejemplos-if.deps.json
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\bin\Debug\net5.0\ejemplos-if.runtimeconfig.json
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\bin\Debug\net5.0\ejemplos-if.runtimeconfig.dev.json
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\bin\Debug\net5.0\ejemplos-if.dll
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\bin\Debug\net5.0\ref\ejemplos-if.dll
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\bin\Debug\net5.0\ejemplos-if.pdb
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\obj\Debug\net5.0\ejemplos-if.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\obj\Debug\net5.0\ejemplos-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\obj\Debug\net5.0\ejemplos-if.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\obj\Debug\net5.0\ejemplos-if.AssemblyInfo.cs
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\obj\Debug\net5.0\ejemplos-if.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\obj\Debug\net5.0\ejemplos-if.dll
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\obj\Debug\net5.0\ref\ejemplos-if.dll
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\obj\Debug\net5.0\ejemplos-if.pdb
+C:\Users\marco\Desktop\C# N1\Unidad3\ejemplos-if\obj\Debug\net5.0\ejemplos-if.genruntimeconfig.cache

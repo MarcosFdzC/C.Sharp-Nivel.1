@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\bin\Debug\net5.0\ciclos.exe
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\bin\Debug\net5.0\ciclos.deps.json
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\bin\Debug\net5.0\ciclos.runtimeconfig.json
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\bin\Debug\net5.0\ciclos.runtimeconfig.dev.json
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\bin\Debug\net5.0\ciclos.dll
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\bin\Debug\net5.0\ref\ciclos.dll
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\bin\Debug\net5.0\ciclos.pdb
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\obj\Debug\net5.0\ciclos.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\obj\Debug\net5.0\ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\obj\Debug\net5.0\ciclos.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\obj\Debug\net5.0\ciclos.AssemblyInfo.cs
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\obj\Debug\net5.0\ciclos.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\obj\Debug\net5.0\ciclos.dll
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\obj\Debug\net5.0\ref\ciclos.dll
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\obj\Debug\net5.0\ciclos.pdb
+C:\Users\marco\Desktop\C# N1\Unidad5\Ciclos\ciclos\obj\Debug\net5.0\ciclos.genruntimeconfig.cache

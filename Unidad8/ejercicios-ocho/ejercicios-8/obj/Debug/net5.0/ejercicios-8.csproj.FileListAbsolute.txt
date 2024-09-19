@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\bin\Debug\net5.0\ejercicios-8.exe
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\bin\Debug\net5.0\ejercicios-8.deps.json
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\bin\Debug\net5.0\ejercicios-8.runtimeconfig.json
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\bin\Debug\net5.0\ejercicios-8.runtimeconfig.dev.json
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\bin\Debug\net5.0\ejercicios-8.dll
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\bin\Debug\net5.0\ref\ejercicios-8.dll
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\bin\Debug\net5.0\ejercicios-8.pdb
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\obj\Debug\net5.0\ejercicios-8.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\obj\Debug\net5.0\ejercicios-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\obj\Debug\net5.0\ejercicios-8.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\obj\Debug\net5.0\ejercicios-8.AssemblyInfo.cs
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\obj\Debug\net5.0\ejercicios-8.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\obj\Debug\net5.0\ejercicios-8.dll
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\obj\Debug\net5.0\ref\ejercicios-8.dll
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\obj\Debug\net5.0\ejercicios-8.pdb
+C:\Users\marco\Desktop\C# N1\Unidad8\ejercicios-ocho\ejercicios-8\obj\Debug\net5.0\ejercicios-8.genruntimeconfig.cache

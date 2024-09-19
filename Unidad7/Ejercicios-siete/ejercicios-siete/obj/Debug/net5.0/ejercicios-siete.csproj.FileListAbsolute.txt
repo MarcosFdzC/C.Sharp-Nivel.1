@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\bin\Debug\net5.0\ejercicios-siete.exe
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\bin\Debug\net5.0\ejercicios-siete.deps.json
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\bin\Debug\net5.0\ejercicios-siete.runtimeconfig.json
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\bin\Debug\net5.0\ejercicios-siete.runtimeconfig.dev.json
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\bin\Debug\net5.0\ejercicios-siete.dll
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\bin\Debug\net5.0\ref\ejercicios-siete.dll
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\bin\Debug\net5.0\ejercicios-siete.pdb
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\obj\Debug\net5.0\ejercicios-siete.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\obj\Debug\net5.0\ejercicios-siete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\obj\Debug\net5.0\ejercicios-siete.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\obj\Debug\net5.0\ejercicios-siete.AssemblyInfo.cs
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\obj\Debug\net5.0\ejercicios-siete.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\obj\Debug\net5.0\ejercicios-siete.dll
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\obj\Debug\net5.0\ref\ejercicios-siete.dll
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\obj\Debug\net5.0\ejercicios-siete.pdb
+C:\Users\marco\Desktop\C# N1\Unidad7\Ejercicios-siete\ejercicios-siete\obj\Debug\net5.0\ejercicios-siete.genruntimeconfig.cache

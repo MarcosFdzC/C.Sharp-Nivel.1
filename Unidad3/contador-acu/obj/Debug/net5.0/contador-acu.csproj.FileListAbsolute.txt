@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\bin\Debug\net5.0\contador-acu.exe
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\bin\Debug\net5.0\contador-acu.deps.json
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\bin\Debug\net5.0\contador-acu.runtimeconfig.json
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\bin\Debug\net5.0\contador-acu.runtimeconfig.dev.json
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\bin\Debug\net5.0\contador-acu.dll
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\bin\Debug\net5.0\ref\contador-acu.dll
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\bin\Debug\net5.0\contador-acu.pdb
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\obj\Debug\net5.0\contador-acu.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\obj\Debug\net5.0\contador-acu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\obj\Debug\net5.0\contador-acu.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\obj\Debug\net5.0\contador-acu.AssemblyInfo.cs
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\obj\Debug\net5.0\contador-acu.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\obj\Debug\net5.0\contador-acu.dll
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\obj\Debug\net5.0\ref\contador-acu.dll
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\obj\Debug\net5.0\contador-acu.pdb
+C:\Users\marco\Desktop\C# N1\Unidad3\contador-acu\obj\Debug\net5.0\contador-acu.genruntimeconfig.cache
