@@ -1,0 +1,393 @@
+[33mcommit 119af234107201fe9847d8bfa389ca47f60c25c7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Marcos Fernandez <marcosfernandezc1998@gmail.com>
+Date:   Thu Sep 19 20:54:12 2024 -0300
+
+    Subiendo la carpeta de C# Nivel 1
+
+ C# N1.sln                                          |  36 [32m++++[m
+ Unidad3/contador-acu/Program.cs                    |  38 [32m++++[m
+ .../bin/Debug/net5.0/contador-acu.deps.json        |  23 [32m+++[m
+ .../contador-acu/bin/Debug/net5.0/contador-acu.dll | Bin [31m0[m -> [32m4608[m bytes
+ .../contador-acu/bin/Debug/net5.0/contador-acu.exe | Bin [31m0[m -> [32m125952[m bytes
+ .../contador-acu/bin/Debug/net5.0/contador-acu.pdb | Bin [31m0[m -> [32m9848[m bytes
+ .../net5.0/contador-acu.runtimeconfig.dev.json     |   8 [32m+[m
+ .../Debug/net5.0/contador-acu.runtimeconfig.json   |   9 [32m+[m
+ .../bin/Debug/net5.0/ref/contador-acu.dll          | Bin [31m0[m -> [32m5120[m bytes
+ Unidad3/contador-acu/contador-acu.csproj           |   9 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ Unidad3/contador-acu/obj/Debug/net5.0/apphost.exe  | Bin [31m0[m -> [32m125952[m bytes
+ .../obj/Debug/net5.0/contador-acu.AssemblyInfo.cs  |  22 [32m+++[m
+ .../net5.0/contador-acu.AssemblyInfoInputs.cache   |   1 [32m+[m
+ ...r-acu.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../obj/Debug/net5.0/contador-acu.assets.cache     | Bin [31m0[m -> [32m140[m bytes
+ .../contador-acu.csproj.AssemblyReference.cache    | Bin [31m0[m -> [32m69896[m bytes
+ .../contador-acu.csproj.CoreCompileInputs.cache    |   1 [32m+[m
+ .../contador-acu.csproj.FileListAbsolute.txt       |  16 [32m++[m
+ .../contador-acu/obj/Debug/net5.0/contador-acu.dll | Bin [31m0[m -> [32m4608[m bytes
+ .../net5.0/contador-acu.genruntimeconfig.cache     |   1 [32m+[m
+ .../contador-acu/obj/Debug/net5.0/contador-acu.pdb | Bin [31m0[m -> [32m9848[m bytes
+ .../obj/Debug/net5.0/ref/contador-acu.dll          | Bin [31m0[m -> [32m5120[m bytes
+ .../obj/contador-acu.csproj.nuget.dgspec.json      |  60 [32m+++++++[m
+ .../obj/contador-acu.csproj.nuget.g.props          |  18 [32m++[m
+ .../obj/contador-acu.csproj.nuget.g.targets        |   6 [32m+[m
+ Unidad3/contador-acu/obj/project.assets.json       |  65 [32m+++++++[m
+ Unidad3/contador-acu/obj/project.nuget.cache       |   8 [32m+[m
+ Unidad3/ejemplos-if/Program.cs                     |  24 [32m+++[m
+ .../bin/Debug/net5.0/ejemplos-if.deps.json         |  23 [32m+++[m
+ .../ejemplos-if/bin/Debug/net5.0/ejemplos-if.dll   | Bin [31m0[m -> [32m4608[m bytes
+ .../ejemplos-if/bin/Debug/net5.0/ejemplos-if.exe   | Bin [31m0[m -> [32m125952[m bytes
+ .../ejemplos-if/bin/Debug/net5.0/ejemplos-if.pdb   | Bin [31m0[m -> [32m9736[m bytes
+ .../net5.0/ejemplos-if.runtimeconfig.dev.json      |   8 [32m+[m
+ .../Debug/net5.0/ejemplos-if.runtimeconfig.json    |   9 [32m+[m
+ .../bin/Debug/net5.0/ref/ejemplos-if.dll           | Bin [31m0[m -> [32m5120[m bytes
+ Unidad3/ejemplos-if/ejemplos-if.csproj             |   9 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ Unidad3/ejemplos-if/obj/Debug/net5.0/apphost.exe   | Bin [31m0[m -> [32m125952[m bytes
+ .../obj/Debug/net5.0/ejemplos-if.AssemblyInfo.cs   |  22 [32m+++[m
+ .../net5.0/ejemplos-if.AssemblyInfoInputs.cache    |   1 [32m+[m
+ ...os-if.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../obj/Debug/net5.0/ejemplos-if.assets.cache      | Bin [31m0[m -> [32m140[m bytes
+ .../ejemplos-if.csproj.AssemblyReference.cache     | Bin [31m0[m -> [32m69896[m bytes
+ .../ejemplos-if.csproj.CoreCompileInputs.cache     |   1 [32m+[m
+ .../net5.0/ejemplos-if.csproj.FileListAbsolute.txt |  16 [32m++[m
+ .../ejemplos-if/obj/Debug/net5.0/ejemplos-if.dll   | Bin [31m0[m -> [32m4608[m bytes
+ .../net5.0/ejemplos-if.genruntimeconfig.cache      |   1 [32m+[m
+ .../ejemplos-if/obj/Debug/net5.0/ejemplos-if.pdb   | Bin [31m0[m -> [32m9736[m bytes
+ .../obj/Debug/net5.0/ref/ejemplos-if.dll           | Bin [31m0[m -> [32m5120[m bytes
+ .../obj/ejemplos-if.csproj.nuget.dgspec.json       |  60 [32m+++++++[m
+ .../obj/ejemplos-if.csproj.nuget.g.props           |  18 [32m++[m
+ .../obj/ejemplos-if.csproj.nuget.g.targets         |   6 [32m+[m
+ Unidad3/ejemplos-if/obj/project.assets.json        |  65 [32m+++++++[m
+ Unidad3/ejemplos-if/obj/project.nuget.cache        |   8 [32m+[m
+ Unidad3/ejercicios3/Program.cs                     | 115 [32m++++++++++++[m
+ .../bin/Debug/net5.0/ejercicios3.deps.json         |  23 [32m+++[m
+ .../ejercicios3/bin/Debug/net5.0/ejercicios3.dll   | Bin [31m0[m -> [32m4608[m bytes
+ .../ejercicios3/bin/Debug/net5.0/ejercicios3.exe   | Bin [31m0[m -> [32m125952[m bytes
+ .../ejercicios3/bin/Debug/net5.0/ejercicios3.pdb   | Bin [31m0[m -> [32m9776[m bytes
+ .../net5.0/ejercicios3.runtimeconfig.dev.json      |   8 [32m+[m
+ .../Debug/net5.0/ejercicios3.runtimeconfig.json    |   9 [32m+[m
+ .../bin/Debug/net5.0/ref/ejercicios3.dll           | Bin [31m0[m -> [32m5120[m bytes
+ Unidad3/ejercicios3/ejercicios3.csproj             |   8 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ Unidad3/ejercicios3/obj/Debug/net5.0/apphost.exe   | Bin [31m0[m -> [32m125952[m bytes
+ .../obj/Debug/net5.0/ejercicios3.AssemblyInfo.cs   |  22 [32m+++[m
+ .../net5.0/ejercicios3.AssemblyInfoInputs.cache    |   1 [32m+[m
+ ...cios3.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../obj/Debug/net5.0/ejercicios3.assets.cache      | Bin [31m0[m -> [32m140[m bytes
+ .../ejercicios3.csproj.AssemblyReference.cache     | Bin [31m0[m -> [32m69896[m bytes
+ .../ejercicios3.csproj.CoreCompileInputs.cache     |   1 [32m+[m
+ .../net5.0/ejercicios3.csproj.FileListAbsolute.txt |  16 [32m++[m
+ .../ejercicios3/obj/Debug/net5.0/ejercicios3.dll   | Bin [31m0[m -> [32m4608[m bytes
+ .../net5.0/ejercicios3.genruntimeconfig.cache      |   1 [32m+[m
+ .../ejercicios3/obj/Debug/net5.0/ejercicios3.pdb   | Bin [31m0[m -> [32m9776[m bytes
+ .../obj/Debug/net5.0/ref/ejercicios3.dll           | Bin [31m0[m -> [32m5120[m bytes
+ .../obj/ejercicios3.csproj.nuget.dgspec.json       |  60 [32m+++++++[m
+ .../obj/ejercicios3.csproj.nuget.g.props           |  18 [32m++[m
+ .../obj/ejercicios3.csproj.nuget.g.targets         |   6 [32m+[m
+ Unidad3/ejercicios3/obj/project.assets.json        |  65 [32m+++++++[m
+ Unidad3/ejercicios3/obj/project.nuget.cache        |   8 [32m+[m
+ Unidad4/condicionales-dos/Program.cs               |  51 [32m++++++[m
+ Unidad4/condicionales-dos/condicionales-dos.csproj |   9 [32m+[m
+ .../obj/condicionales-dos.csproj.nuget.dgspec.json |  60 [32m+++++++[m
+ .../obj/condicionales-dos.csproj.nuget.g.props     |  18 [32m++[m
+ .../obj/condicionales-dos.csproj.nuget.g.targets   |   6 [32m+[m
+ Unidad4/condicionales-dos/obj/project.assets.json  |  65 [32m+++++++[m
+ Unidad4/condicionales-dos/obj/project.nuget.cache  |   8 [32m+[m
+ Unidad4/ejercicios-cuartro/Program.cs              | 196 [32m+++++++++++++++++++++[m
+ .../bin/Debug/net5.0/ejercicios-cuartro.deps.json  |  23 [32m+++[m
+ .../bin/Debug/net5.0/ejercicios-cuartro.dll        | Bin [31m0[m -> [32m5120[m bytes
+ .../bin/Debug/net5.0/ejercicios-cuartro.exe        | Bin [31m0[m -> [32m125952[m bytes
+ .../bin/Debug/net5.0/ejercicios-cuartro.pdb        | Bin [31m0[m -> [32m9796[m bytes
+ .../ejercicios-cuartro.runtimeconfig.dev.json      |   8 [32m+[m
+ .../net5.0/ejercicios-cuartro.runtimeconfig.json   |   9 [32m+[m
+ .../bin/Debug/net5.0/ref/ejercicios-cuartro.dll    | Bin [31m0[m -> [32m5120[m bytes
+ .../ejercicios-cuartro/ejercicios-cuartro.csproj   |   9 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ .../obj/Debug/net5.0/apphost.exe                   | Bin [31m0[m -> [32m125952[m bytes
+ .../net5.0/ejercicios-cuartro.AssemblyInfo.cs      |  22 [32m+++[m
+ .../ejercicios-cuartro.AssemblyInfoInputs.cache    |   1 [32m+[m
+ ...artro.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../Debug/net5.0/ejercicios-cuartro.assets.cache   | Bin [31m0[m -> [32m140[m bytes
+ ...ercicios-cuartro.csproj.AssemblyReference.cache | Bin [31m0[m -> [32m69896[m bytes
+ ...ercicios-cuartro.csproj.CoreCompileInputs.cache |   1 [32m+[m
+ .../ejercicios-cuartro.csproj.FileListAbsolute.txt |  32 [32m++++[m
+ .../obj/Debug/net5.0/ejercicios-cuartro.dll        | Bin [31m0[m -> [32m5120[m bytes
+ .../ejercicios-cuartro.genruntimeconfig.cache      |   1 [32m+[m
+ .../obj/Debug/net5.0/ejercicios-cuartro.pdb        | Bin [31m0[m -> [32m9796[m bytes
+ .../obj/Debug/net5.0/ref/ejercicios-cuartro.dll    | Bin [31m0[m -> [32m5120[m bytes
+ .../ejercicios-cuartro.csproj.nuget.dgspec.json    |  60 [32m+++++++[m
+ .../obj/ejercicios-cuartro.csproj.nuget.g.props    |  18 [32m++[m
+ .../obj/ejercicios-cuartro.csproj.nuget.g.targets  |   6 [32m+[m
+ Unidad4/ejercicios-cuartro/obj/project.assets.json |  65 [32m+++++++[m
+ Unidad4/ejercicios-cuartro/obj/project.nuget.cache |   8 [32m+[m
+ Unidad5/Ciclos/ciclos/Program.cs                   |  35 [32m++++[m
+ .../ciclos/bin/Debug/net5.0/ciclos.deps.json       |  23 [32m+++[m
+ Unidad5/Ciclos/ciclos/bin/Debug/net5.0/ciclos.dll  | Bin [31m0[m -> [32m4608[m bytes
+ Unidad5/Ciclos/ciclos/bin/Debug/net5.0/ciclos.exe  | Bin [31m0[m -> [32m125952[m bytes
+ Unidad5/Ciclos/ciclos/bin/Debug/net5.0/ciclos.pdb  | Bin [31m0[m -> [32m9712[m bytes
+ .../bin/Debug/net5.0/ciclos.runtimeconfig.dev.json |   8 [32m+[m
+ .../bin/Debug/net5.0/ciclos.runtimeconfig.json     |   9 [32m+[m
+ .../Ciclos/ciclos/bin/Debug/net5.0/ref/ciclos.dll  | Bin [31m0[m -> [32m5120[m bytes
+ Unidad5/Ciclos/ciclos/ciclos.csproj                |   8 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ Unidad5/Ciclos/ciclos/obj/Debug/net5.0/apphost.exe | Bin [31m0[m -> [32m125952[m bytes
+ .../ciclos/obj/Debug/net5.0/ciclos.AssemblyInfo.cs |  22 [32m+++[m
+ .../Debug/net5.0/ciclos.AssemblyInfoInputs.cache   |   1 [32m+[m
+ ...iclos.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../ciclos/obj/Debug/net5.0/ciclos.assets.cache    | Bin [31m0[m -> [32m140[m bytes
+ .../net5.0/ciclos.csproj.AssemblyReference.cache   | Bin [31m0[m -> [32m69896[m bytes
+ .../net5.0/ciclos.csproj.CoreCompileInputs.cache   |   1 [32m+[m
+ .../net5.0/ciclos.csproj.FileListAbsolute.txt      |  16 [32m++[m
+ Unidad5/Ciclos/ciclos/obj/Debug/net5.0/ciclos.dll  | Bin [31m0[m -> [32m4608[m bytes
+ .../obj/Debug/net5.0/ciclos.genruntimeconfig.cache |   1 [32m+[m
+ Unidad5/Ciclos/ciclos/obj/Debug/net5.0/ciclos.pdb  | Bin [31m0[m -> [32m9712[m bytes
+ .../Ciclos/ciclos/obj/Debug/net5.0/ref/ciclos.dll  | Bin [31m0[m -> [32m5120[m bytes
+ .../ciclos/obj/ciclos.csproj.nuget.dgspec.json     |  60 [32m+++++++[m
+ .../Ciclos/ciclos/obj/ciclos.csproj.nuget.g.props  |  18 [32m++[m
+ .../ciclos/obj/ciclos.csproj.nuget.g.targets       |   6 [32m+[m
+ Unidad5/Ciclos/ciclos/obj/project.assets.json      |  65 [32m+++++++[m
+ Unidad5/Ciclos/ciclos/obj/project.nuget.cache      |   8 [32m+[m
+ Unidad5/ejercicios-cinco/Program.cs                | 129 [32m++++++++++++++[m
+ .../bin/Debug/net5.0/ejercicios-cinco.deps.json    |  23 [32m+++[m
+ .../bin/Debug/net5.0/ejercicios-cinco.dll          | Bin [31m0[m -> [32m5120[m bytes
+ .../bin/Debug/net5.0/ejercicios-cinco.exe          | Bin [31m0[m -> [32m125952[m bytes
+ .../bin/Debug/net5.0/ejercicios-cinco.pdb          | Bin [31m0[m -> [32m9972[m bytes
+ .../net5.0/ejercicios-cinco.runtimeconfig.dev.json |   8 [32m+[m
+ .../net5.0/ejercicios-cinco.runtimeconfig.json     |   9 [32m+[m
+ .../bin/Debug/net5.0/ref/ejercicios-cinco.dll      | Bin [31m0[m -> [32m5120[m bytes
+ Unidad5/ejercicios-cinco/ejercicios-cinco.csproj   |   9 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ .../ejercicios-cinco/obj/Debug/net5.0/apphost.exe  | Bin [31m0[m -> [32m125952[m bytes
+ .../Debug/net5.0/ejercicios-cinco.AssemblyInfo.cs  |  22 [32m+++[m
+ .../ejercicios-cinco.AssemblyInfoInputs.cache      |   1 [32m+[m
+ ...cinco.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../obj/Debug/net5.0/ejercicios-cinco.assets.cache | Bin [31m0[m -> [32m140[m bytes
+ ...ejercicios-cinco.csproj.AssemblyReference.cache | Bin [31m0[m -> [32m69896[m bytes
+ ...ejercicios-cinco.csproj.CoreCompileInputs.cache |   1 [32m+[m
+ .../ejercicios-cinco.csproj.FileListAbsolute.txt   |  16 [32m++[m
+ .../obj/Debug/net5.0/ejercicios-cinco.dll          | Bin [31m0[m -> [32m5120[m bytes
+ .../net5.0/ejercicios-cinco.genruntimeconfig.cache |   1 [32m+[m
+ .../obj/Debug/net5.0/ejercicios-cinco.pdb          | Bin [31m0[m -> [32m9972[m bytes
+ .../obj/Debug/net5.0/ref/ejercicios-cinco.dll      | Bin [31m0[m -> [32m5120[m bytes
+ .../obj/ejercicios-cinco.csproj.nuget.dgspec.json  |  60 [32m+++++++[m
+ .../obj/ejercicios-cinco.csproj.nuget.g.props      |  18 [32m++[m
+ .../obj/ejercicios-cinco.csproj.nuget.g.targets    |   6 [32m+[m
+ Unidad5/ejercicios-cinco/obj/project.assets.json   |  65 [32m+++++++[m
+ Unidad5/ejercicios-cinco/obj/project.nuget.cache   |   8 [32m+[m
+ Unidad6/ciclos-combinados/Program.cs               |  85 [32m+++++++++[m
+ .../bin/Debug/net5.0/ciclos-combinados.deps.json   |  23 [32m+++[m
+ .../bin/Debug/net5.0/ciclos-combinados.dll         | Bin [31m0[m -> [32m4608[m bytes
+ .../bin/Debug/net5.0/ciclos-combinados.exe         | Bin [31m0[m -> [32m125952[m bytes
+ .../bin/Debug/net5.0/ciclos-combinados.pdb         | Bin [31m0[m -> [32m9636[m bytes
+ .../ciclos-combinados.runtimeconfig.dev.json       |   8 [32m+[m
+ .../net5.0/ciclos-combinados.runtimeconfig.json    |   9 [32m+[m
+ .../bin/Debug/net5.0/ref/ciclos-combinados.dll     | Bin [31m0[m -> [32m5120[m bytes
+ Unidad6/ciclos-combinados/ciclos-combinados.csproj |   9 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ .../ciclos-combinados/obj/Debug/net5.0/apphost.exe | Bin [31m0[m -> [32m125952[m bytes
+ .../Debug/net5.0/ciclos-combinados.AssemblyInfo.cs |  22 [32m+++[m
+ .../ciclos-combinados.AssemblyInfoInputs.cache     |   1 [32m+[m
+ ...nados.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../Debug/net5.0/ciclos-combinados.assets.cache    | Bin [31m0[m -> [32m140[m bytes
+ ...iclos-combinados.csproj.AssemblyReference.cache | Bin [31m0[m -> [32m69896[m bytes
+ ...iclos-combinados.csproj.CoreCompileInputs.cache |   1 [32m+[m
+ .../ciclos-combinados.csproj.FileListAbsolute.txt  |  16 [32m++[m
+ .../obj/Debug/net5.0/ciclos-combinados.dll         | Bin [31m0[m -> [32m4608[m bytes
+ .../ciclos-combinados.genruntimeconfig.cache       |   1 [32m+[m
+ .../obj/Debug/net5.0/ciclos-combinados.pdb         | Bin [31m0[m -> [32m9636[m bytes
+ .../obj/Debug/net5.0/ref/ciclos-combinados.dll     | Bin [31m0[m -> [32m5120[m bytes
+ .../obj/ciclos-combinados.csproj.nuget.dgspec.json |  60 [32m+++++++[m
+ .../obj/ciclos-combinados.csproj.nuget.g.props     |  18 [32m++[m
+ .../obj/ciclos-combinados.csproj.nuget.g.targets   |   6 [32m+[m
+ Unidad6/ciclos-combinados/obj/project.assets.json  |  65 [32m+++++++[m
+ Unidad6/ciclos-combinados/obj/project.nuget.cache  |   8 [32m+[m
+ Unidad6/corte-control/Program.cs                   |  39 [32m++++[m
+ .../bin/Debug/net5.0/corte-control.deps.json       |  23 [32m+++[m
+ .../bin/Debug/net5.0/corte-control.dll             | Bin [31m0[m -> [32m4608[m bytes
+ .../bin/Debug/net5.0/corte-control.exe             | Bin [31m0[m -> [32m125952[m bytes
+ .../bin/Debug/net5.0/corte-control.pdb             | Bin [31m0[m -> [32m9628[m bytes
+ .../net5.0/corte-control.runtimeconfig.dev.json    |   8 [32m+[m
+ .../Debug/net5.0/corte-control.runtimeconfig.json  |   9 [32m+[m
+ .../bin/Debug/net5.0/ref/corte-control.dll         | Bin [31m0[m -> [32m5120[m bytes
+ Unidad6/corte-control/corte-control.csproj         |   9 [32m+[m
+ .../ejercicios-corte-control/Program.cs            |  91 [32m++++++++++[m
+ .../net5.0/ejercicios-corte-control.deps.json      |  23 [32m+++[m
+ .../bin/Debug/net5.0/ejercicios-corte-control.dll  | Bin [31m0[m -> [32m6144[m bytes
+ .../bin/Debug/net5.0/ejercicios-corte-control.exe  | Bin [31m0[m -> [32m125952[m bytes
+ .../bin/Debug/net5.0/ejercicios-corte-control.pdb  | Bin [31m0[m -> [32m10352[m bytes
+ ...ejercicios-corte-control.runtimeconfig.dev.json |   8 [32m+[m
+ .../ejercicios-corte-control.runtimeconfig.json    |   9 [32m+[m
+ .../Debug/net5.0/ref/ejercicios-corte-control.dll  | Bin [31m0[m -> [32m5120[m bytes
+ .../ejercicios-corte-control.csproj                |   9 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ .../obj/Debug/net5.0/apphost.exe                   | Bin [31m0[m -> [32m125952[m bytes
+ .../ejercicios-corte-control.AssemblyInfo.cs       |  22 [32m+++[m
+ ...ercicios-corte-control.AssemblyInfoInputs.cache |   1 [32m+[m
+ ...ntrol.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../net5.0/ejercicios-corte-control.assets.cache   | Bin [31m0[m -> [32m140[m bytes
+ ...os-corte-control.csproj.AssemblyReference.cache | Bin [31m0[m -> [32m69896[m bytes
+ ...os-corte-control.csproj.CoreCompileInputs.cache |   1 [32m+[m
+ ...icios-corte-control.csproj.FileListAbsolute.txt |  16 [32m++[m
+ .../obj/Debug/net5.0/ejercicios-corte-control.dll  | Bin [31m0[m -> [32m6144[m bytes
+ ...ejercicios-corte-control.genruntimeconfig.cache |   1 [32m+[m
+ .../obj/Debug/net5.0/ejercicios-corte-control.pdb  | Bin [31m0[m -> [32m10352[m bytes
+ .../Debug/net5.0/ref/ejercicios-corte-control.dll  | Bin [31m0[m -> [32m5120[m bytes
+ ...ercicios-corte-control.csproj.nuget.dgspec.json |  60 [32m+++++++[m
+ .../ejercicios-corte-control.csproj.nuget.g.props  |  18 [32m++[m
+ ...ejercicios-corte-control.csproj.nuget.g.targets |   6 [32m+[m
+ .../obj/project.assets.json                        |  65 [32m+++++++[m
+ .../obj/project.nuget.cache                        |   8 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ Unidad6/corte-control/obj/Debug/net5.0/apphost.exe | Bin [31m0[m -> [32m125952[m bytes
+ .../obj/Debug/net5.0/corte-control.AssemblyInfo.cs |  22 [32m+++[m
+ .../net5.0/corte-control.AssemblyInfoInputs.cache  |   1 [32m+[m
+ ...ntrol.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../obj/Debug/net5.0/corte-control.assets.cache    | Bin [31m0[m -> [32m140[m bytes
+ .../corte-control.csproj.AssemblyReference.cache   | Bin [31m0[m -> [32m69896[m bytes
+ .../corte-control.csproj.CoreCompileInputs.cache   |   1 [32m+[m
+ .../corte-control.csproj.FileListAbsolute.txt      |  16 [32m++[m
+ .../obj/Debug/net5.0/corte-control.dll             | Bin [31m0[m -> [32m4608[m bytes
+ .../net5.0/corte-control.genruntimeconfig.cache    |   1 [32m+[m
+ .../obj/Debug/net5.0/corte-control.pdb             | Bin [31m0[m -> [32m9628[m bytes
+ .../obj/Debug/net5.0/ref/corte-control.dll         | Bin [31m0[m -> [32m5120[m bytes
+ .../obj/corte-control.csproj.nuget.dgspec.json     |  60 [32m+++++++[m
+ .../obj/corte-control.csproj.nuget.g.props         |  18 [32m++[m
+ .../obj/corte-control.csproj.nuget.g.targets       |   6 [32m+[m
+ Unidad6/corte-control/obj/project.assets.json      |  65 [32m+++++++[m
+ Unidad6/corte-control/obj/project.nuget.cache      |   8 [32m+[m
+ Unidad6/ejercicios-6/ejercicios-6/Program.cs       | 108 [32m++++++++++++[m
+ .../bin/Debug/net5.0/ejercicios-6.deps.json        |  23 [32m+++[m
+ .../ejercicios-6/bin/Debug/net5.0/ejercicios-6.dll | Bin [31m0[m -> [32m4608[m bytes
+ .../ejercicios-6/bin/Debug/net5.0/ejercicios-6.exe | Bin [31m0[m -> [32m125952[m bytes
+ .../ejercicios-6/bin/Debug/net5.0/ejercicios-6.pdb | Bin [31m0[m -> [32m9768[m bytes
+ .../net5.0/ejercicios-6.runtimeconfig.dev.json     |   8 [32m+[m
+ .../Debug/net5.0/ejercicios-6.runtimeconfig.json   |   9 [32m+[m
+ .../bin/Debug/net5.0/ref/ejercicios-6.dll          | Bin [31m0[m -> [32m5120[m bytes
+ .../ejercicios-6/ejercicios-6/ejercicios-6.csproj  |   9 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ .../ejercicios-6/obj/Debug/net5.0/apphost.exe      | Bin [31m0[m -> [32m125952[m bytes
+ .../obj/Debug/net5.0/ejercicios-6.AssemblyInfo.cs  |  22 [32m+++[m
+ .../net5.0/ejercicios-6.AssemblyInfoInputs.cache   |   1 [32m+[m
+ ...ios-6.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../obj/Debug/net5.0/ejercicios-6.assets.cache     | Bin [31m0[m -> [32m140[m bytes
+ .../ejercicios-6.csproj.AssemblyReference.cache    | Bin [31m0[m -> [32m69896[m bytes
+ .../ejercicios-6.csproj.CoreCompileInputs.cache    |   1 [32m+[m
+ .../ejercicios-6.csproj.FileListAbsolute.txt       |  16 [32m++[m
+ .../ejercicios-6/obj/Debug/net5.0/ejercicios-6.dll | Bin [31m0[m -> [32m4608[m bytes
+ .../net5.0/ejercicios-6.genruntimeconfig.cache     |   1 [32m+[m
+ .../ejercicios-6/obj/Debug/net5.0/ejercicios-6.pdb | Bin [31m0[m -> [32m9768[m bytes
+ .../obj/Debug/net5.0/ref/ejercicios-6.dll          | Bin [31m0[m -> [32m5120[m bytes
+ .../obj/ejercicios-6.csproj.nuget.dgspec.json      |  60 [32m+++++++[m
+ .../obj/ejercicios-6.csproj.nuget.g.props          |  18 [32m++[m
+ .../obj/ejercicios-6.csproj.nuget.g.targets        |   6 [32m+[m
+ .../ejercicios-6/obj/project.assets.json           |  65 [32m+++++++[m
+ .../ejercicios-6/obj/project.nuget.cache           |   8 [32m+[m
+ Unidad7/Arrays/vectores-y-cadenas/Program.cs       |  50 [32m++++++[m
+ Unidad7/Arrays/vectores-y-cadenas/arreglos.csproj  |   8 [32m+[m
+ .../bin/Debug/net5.0/arreglos.deps.json            |  23 [32m+++[m
+ .../bin/Debug/net5.0/arreglos.dll                  | Bin [31m0[m -> [32m4608[m bytes
+ .../bin/Debug/net5.0/arreglos.exe                  | Bin [31m0[m -> [32m125952[m bytes
+ .../bin/Debug/net5.0/arreglos.pdb                  | Bin [31m0[m -> [32m9628[m bytes
+ .../Debug/net5.0/arreglos.runtimeconfig.dev.json   |   8 [32m+[m
+ .../bin/Debug/net5.0/arreglos.runtimeconfig.json   |   9 [32m+[m
+ .../bin/Debug/net5.0/ref/arreglos.dll              | Bin [31m0[m -> [32m5120[m bytes
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ .../obj/Debug/net5.0/apphost.exe                   | Bin [31m0[m -> [32m125952[m bytes
+ .../obj/Debug/net5.0/arreglos.AssemblyInfo.cs      |  22 [32m+++[m
+ .../Debug/net5.0/arreglos.AssemblyInfoInputs.cache |   1 [32m+[m
+ ...eglos.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../obj/Debug/net5.0/arreglos.assets.cache         | Bin [31m0[m -> [32m140[m bytes
+ .../net5.0/arreglos.csproj.AssemblyReference.cache | Bin [31m0[m -> [32m69896[m bytes
+ .../net5.0/arreglos.csproj.CoreCompileInputs.cache |   1 [32m+[m
+ .../net5.0/arreglos.csproj.FileListAbsolute.txt    |  24 [32m+++[m
+ .../obj/Debug/net5.0/arreglos.dll                  | Bin [31m0[m -> [32m4608[m bytes
+ .../Debug/net5.0/arreglos.genruntimeconfig.cache   |   1 [32m+[m
+ .../obj/Debug/net5.0/arreglos.pdb                  | Bin [31m0[m -> [32m9628[m bytes
+ .../obj/Debug/net5.0/ref/arreglos.dll              | Bin [31m0[m -> [32m5120[m bytes
+ .../obj/arreglos.csproj.nuget.dgspec.json          |  60 [32m+++++++[m
+ .../obj/arreglos.csproj.nuget.g.props              |  18 [32m++[m
+ .../obj/arreglos.csproj.nuget.g.targets            |   6 [32m+[m
+ .../vectores-y-cadenas/obj/project.assets.json     |  65 [32m+++++++[m
+ .../vectores-y-cadenas/obj/project.nuget.cache     |   8 [32m+[m
+ .../Ejercicios-siete/ejercicios-siete/Program.cs   | 157 [32m+++++++++++++++++[m
+ .../bin/Debug/net5.0/ejercicios-siete.deps.json    |  23 [32m+++[m
+ .../bin/Debug/net5.0/ejercicios-siete.dll          | Bin [31m0[m -> [32m5632[m bytes
+ .../bin/Debug/net5.0/ejercicios-siete.exe          | Bin [31m0[m -> [32m125952[m bytes
+ .../bin/Debug/net5.0/ejercicios-siete.pdb          | Bin [31m0[m -> [32m10048[m bytes
+ .../net5.0/ejercicios-siete.runtimeconfig.dev.json |   8 [32m+[m
+ .../net5.0/ejercicios-siete.runtimeconfig.json     |   9 [32m+[m
+ .../bin/Debug/net5.0/ref/ejercicios-siete.dll      | Bin [31m0[m -> [32m5120[m bytes
+ .../ejercicios-siete/ejercicios-siete.csproj       |   9 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ .../ejercicios-siete/obj/Debug/net5.0/apphost.exe  | Bin [31m0[m -> [32m125952[m bytes
+ .../Debug/net5.0/ejercicios-siete.AssemblyInfo.cs  |  22 [32m+++[m
+ .../ejercicios-siete.AssemblyInfoInputs.cache      |   1 [32m+[m
+ ...siete.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../obj/Debug/net5.0/ejercicios-siete.assets.cache | Bin [31m0[m -> [32m140[m bytes
+ ...ejercicios-siete.csproj.AssemblyReference.cache | Bin [31m0[m -> [32m69896[m bytes
+ ...ejercicios-siete.csproj.CoreCompileInputs.cache |   1 [32m+[m
+ .../ejercicios-siete.csproj.FileListAbsolute.txt   |  16 [32m++[m
+ .../obj/Debug/net5.0/ejercicios-siete.dll          | Bin [31m0[m -> [32m5632[m bytes
+ .../net5.0/ejercicios-siete.genruntimeconfig.cache |   1 [32m+[m
+ .../obj/Debug/net5.0/ejercicios-siete.pdb          | Bin [31m0[m -> [32m10048[m bytes
+ .../obj/Debug/net5.0/ref/ejercicios-siete.dll      | Bin [31m0[m -> [32m5120[m bytes
+ .../obj/ejercicios-siete.csproj.nuget.dgspec.json  |  60 [32m+++++++[m
+ .../obj/ejercicios-siete.csproj.nuget.g.props      |  18 [32m++[m
+ .../obj/ejercicios-siete.csproj.nuget.g.targets    |   6 [32m+[m
+ .../ejercicios-siete/obj/project.assets.json       |  65 [32m+++++++[m
+ .../ejercicios-siete/obj/project.nuget.cache       |   8 [32m+[m
+ Unidad8/Funciones/funciones/Program.cs             |  45 [32m+++++[m
+ .../funciones/bin/Debug/net5.0/funciones.deps.json |  23 [32m+++[m
+ .../funciones/bin/Debug/net5.0/funciones.dll       | Bin [31m0[m -> [32m4608[m bytes
+ .../funciones/bin/Debug/net5.0/funciones.exe       | Bin [31m0[m -> [32m125952[m bytes
+ .../funciones/bin/Debug/net5.0/funciones.pdb       | Bin [31m0[m -> [32m9632[m bytes
+ .../Debug/net5.0/funciones.runtimeconfig.dev.json  |   8 [32m+[m
+ .../bin/Debug/net5.0/funciones.runtimeconfig.json  |   9 [32m+[m
+ .../funciones/bin/Debug/net5.0/ref/funciones.dll   | Bin [31m0[m -> [32m5120[m bytes
+ Unidad8/Funciones/funciones/funciones.csproj       |   8 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ .../funciones/obj/Debug/net5.0/apphost.exe         | Bin [31m0[m -> [32m125952[m bytes
+ .../obj/Debug/net5.0/funciones.AssemblyInfo.cs     |  22 [32m+++[m
+ .../net5.0/funciones.AssemblyInfoInputs.cache      |   1 [32m+[m
+ ...iones.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../obj/Debug/net5.0/funciones.assets.cache        | Bin [31m0[m -> [32m140[m bytes
+ .../funciones.csproj.AssemblyReference.cache       | Bin [31m0[m -> [32m69896[m bytes
+ .../funciones.csproj.CoreCompileInputs.cache       |   1 [32m+[m
+ .../net5.0/funciones.csproj.FileListAbsolute.txt   |  16 [32m++[m
+ .../funciones/obj/Debug/net5.0/funciones.dll       | Bin [31m0[m -> [32m4608[m bytes
+ .../Debug/net5.0/funciones.genruntimeconfig.cache  |   1 [32m+[m
+ .../funciones/obj/Debug/net5.0/funciones.pdb       | Bin [31m0[m -> [32m9632[m bytes
+ .../funciones/obj/Debug/net5.0/ref/funciones.dll   | Bin [31m0[m -> [32m5120[m bytes
+ .../obj/funciones.csproj.nuget.dgspec.json         |  60 [32m+++++++[m
+ .../funciones/obj/funciones.csproj.nuget.g.props   |  18 [32m++[m
+ .../funciones/obj/funciones.csproj.nuget.g.targets |   6 [32m+[m
+ .../Funciones/funciones/obj/project.assets.json    |  65 [32m+++++++[m
+ .../Funciones/funciones/obj/project.nuget.cache    |   8 [32m+[m
+ Unidad8/ejercicios-ocho/ejercicios-8/Program.cs    | 111 [32m++++++++++++[m
+ .../bin/Debug/net5.0/ejercicios-8.deps.json        |  23 [32m+++[m
+ .../ejercicios-8/bin/Debug/net5.0/ejercicios-8.dll | Bin [31m0[m -> [32m4608[m bytes
+ .../ejercicios-8/bin/Debug/net5.0/ejercicios-8.exe | Bin [31m0[m -> [32m125952[m bytes
+ .../ejercicios-8/bin/Debug/net5.0/ejercicios-8.pdb | Bin [31m0[m -> [32m9812[m bytes
+ .../net5.0/ejercicios-8.runtimeconfig.dev.json     |   8 [32m+[m
+ .../Debug/net5.0/ejercicios-8.runtimeconfig.json   |   9 [32m+[m
+ .../bin/Debug/net5.0/ref/ejercicios-8.dll          | Bin [31m0[m -> [32m5120[m bytes
+ .../ejercicios-8/ejercicios-8.csproj               |   9 [32m+[m
+ .../.NETCoreApp,Version=v5.0.AssemblyAttributes.cs |   4 [32m+[m
+ .../ejercicios-8/obj/Debug/net5.0/apphost.exe      | Bin [31m0[m -> [32m125952[m bytes
+ .../obj/Debug/net5.0/ejercicios-8.AssemblyInfo.cs  |  22 [32m+++[m
+ .../net5.0/ejercicios-8.AssemblyInfoInputs.cache   |   1 [32m+[m
+ ...ios-8.GeneratedMSBuildEditorConfig.editorconfig |  10 [32m++[m
+ .../obj/Debug/net5.0/ejercicios-8.assets.cache     | Bin [31m0[m -> [32m140[m bytes
+ .../ejercicios-8.csproj.AssemblyReference.cache    | Bin [31m0[m -> [32m69896[m bytes
+ .../ejercicios-8.csproj.CoreCompileInputs.cache    |   1 [32m+[m
+ .../ejercicios-8.csproj.FileListAbsolute.txt       |  16 [32m++[m
+ .../ejercicios-8/obj/Debug/net5.0/ejercicios-8.dll | Bin [31m0[m -> [32m4608[m bytes
+ .../net5.0/ejercicios-8.genruntimeconfig.cache     |   1 [32m+[m
+ .../ejercicios-8/obj/Debug/net5.0/ejercicios-8.pdb | Bin [31m0[m -> [32m9812[m bytes
+ .../obj/Debug/net5.0/ref/ejercicios-8.dll          | Bin [31m0[m -> [32m5120[m bytes
+ .../obj/ejercicios-8.csproj.nuget.dgspec.json      |  60 [32m+++++++[m
+ .../obj/ejercicios-8.csproj.nuget.g.props          |  18 [32m++[m
+ .../obj/ejercicios-8.csproj.nuget.g.targets        |   6 [32m+[m
+ .../ejercicios-8/obj/project.assets.json           |  65 [32m+++++++[m
+ .../ejercicios-8/obj/project.nuget.cache           |   8 [32m+[m
+ 386 files changed, 5150 insertions(+)
